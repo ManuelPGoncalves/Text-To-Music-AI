@@ -5,3 +5,4 @@ labelled/plots/
 *$py.class
 *.npy
 *.gsheet
+venv/
